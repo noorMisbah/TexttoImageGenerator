@@ -1,5 +1,6 @@
 # TexttoImageGenerator
-Text to image generation using hugging face
+We will make a Text to image generator using hugging face, our model is using stable diffusion here, the steps are:
+
 #install diffusers
 !pip install diffusers transformers
 
